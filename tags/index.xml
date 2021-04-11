@@ -2,97 +2,97 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Minimal</title>
-    <link>http://example.com/tags/</link>
+    <link>https://tfarley10.github.io/tags/</link>
     <description>Recent content in Tags on Minimal</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://tfarley10.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>bootstrap</title>
-      <link>http://example.com/tags/bootstrap/</link>
+      <link>https://tfarley10.github.io/tags/bootstrap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/bootstrap/</guid>
+      <guid>https://tfarley10.github.io/tags/bootstrap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>css</title>
-      <link>http://example.com/tags/css/</link>
+      <link>https://tfarley10.github.io/tags/css/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/css/</guid>
+      <guid>https://tfarley10.github.io/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>http://example.com/tags/go/</link>
+      <link>https://tfarley10.github.io/tags/go/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/go/</guid>
+      <guid>https://tfarley10.github.io/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>http://example.com/tags/golang/</link>
+      <link>https://tfarley10.github.io/tags/golang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/golang/</guid>
+      <guid>https://tfarley10.github.io/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>highlight-js</title>
-      <link>http://example.com/tags/highlight-js/</link>
+      <link>https://tfarley10.github.io/tags/highlight-js/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/highlight-js/</guid>
+      <guid>https://tfarley10.github.io/tags/highlight-js/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>http://example.com/tags/html/</link>
+      <link>https://tfarley10.github.io/tags/html/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/html/</guid>
+      <guid>https://tfarley10.github.io/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>http://example.com/tags/hugo/</link>
+      <link>https://tfarley10.github.io/tags/hugo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/hugo/</guid>
+      <guid>https://tfarley10.github.io/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>js</title>
-      <link>http://example.com/tags/js/</link>
+      <link>https://tfarley10.github.io/tags/js/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/js/</guid>
+      <guid>https://tfarley10.github.io/tags/js/</guid>
       <description></description>
     </item>
     
     <item>
       <title>responsive</title>
-      <link>http://example.com/tags/responsive/</link>
+      <link>https://tfarley10.github.io/tags/responsive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/responsive/</guid>
+      <guid>https://tfarley10.github.io/tags/responsive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>syntax-highlighting</title>
-      <link>http://example.com/tags/syntax-highlighting/</link>
+      <link>https://tfarley10.github.io/tags/syntax-highlighting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/tags/syntax-highlighting/</guid>
+      <guid>https://tfarley10.github.io/tags/syntax-highlighting/</guid>
       <description></description>
     </item>
     
