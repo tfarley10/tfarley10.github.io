@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.com/project/project1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/project/project2/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/project/project3/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/project/project4/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/post/2020-10-04-are-old-apartments-cheaper-model-comparison/</loc>
+    <lastmod>2020-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/</loc>
+    <lastmod>2020-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/post/</loc>
+    <lastmod>2020-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/post/2020-10-03-are-old-apartments-cheaper-building-a-statistical-model/</loc>
+    <lastmod>2020-10-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/post/2020-09-27-are-old-apartments-cheaper-building-a-causal-model/</loc>
+    <lastmod>2020-09-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/post/2020-09-26-are-old-apartments-cheaper-exploring-streeteasy-data/</loc>
+    <lastmod>2020-09-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/post/2020-04-18-using-alternative-data-to-assess-borough-level-social-distancing-adherence/</loc>
+    <lastmod>2020-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/bootstrap/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/css/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/go/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/golang/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/highlight-js/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/html/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/hugo/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/js/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/project/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/responsive/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/syntax-highlighting/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/</loc>
+  </url>
+  
+</urlset>

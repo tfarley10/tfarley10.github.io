@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Minimal</title>
+    <link>http://example.com/</link>
+    <description>Recent content on Minimal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1</title>
+      <link>http://example.com/project/project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/project/project1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project 2</title>
+      <link>http://example.com/project/project2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/project/project2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project 3</title>
+      <link>http://example.com/project/project3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/project/project3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project 4</title>
+      <link>http://example.com/project/project4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/project/project4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Are old apartments cheaper?...Model Comparison</title>
+      <link>http://example.com/post/2020-10-04-are-old-apartments-cheaper-model-comparison/</link>
+      <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/post/2020-10-04-are-old-apartments-cheaper-model-comparison/</guid>
+      <description>Intro In the last post, after specifying a statistical model for the the effects of age on rent in the Streeteasy dataset, I fit that model and graphically compared it to a linear model. I pointed out that one advantage of the splines model is that it allowed me to identify in a more granular way how cohort effects could bias my inference. While the overally goal of this analysis is to infer the causal effects of age on rental price a sub-goal of this process is to build a model that describes the underlying data-generating process well.</description>
+    </item>
+    
+    <item>
+      <title>Are old apartments cheaper?...Building a statistical model!</title>
+      <link>http://example.com/post/2020-10-03-are-old-apartments-cheaper-building-a-statistical-model/</link>
+      <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/post/2020-10-03-are-old-apartments-cheaper-building-a-statistical-model/</guid>
+      <description>Introduction In part 1 while exploring the dataset I stated two a priori beliefs about the relationship between building age and rental price. First, especially when taking selection bias, this relationship is unlikely to be linear (or log-linear in this case). Second, I suggested that the relationship was likely to be different in different types of neighborhoods. In this post, I’ll start by specifying a statistical model that addresses the mediating effects of ‘Neighborhood Income level’, non-linearities, and confounding variable bias.</description>
+    </item>
+    
+    <item>
+      <title>Are old apartments cheaper?...Building a causal model</title>
+      <link>http://example.com/post/2020-09-27-are-old-apartments-cheaper-building-a-causal-model/</link>
+      <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/post/2020-09-27-are-old-apartments-cheaper-building-a-causal-model/</guid>
+      <description>Introduction In the previous post I introduced my quesntion of interest: Is there evidence of filtering effects in the NYC housing market?, performed a breif review of the literature on the topic and did some data exploration. Importantly, in my exploration of the data I use 4 out of the 20 possible features in the dataset. If this were a prediction problem, that would not be wise as I would be throwing information away that could improve the performance of my model.</description>
+    </item>
+    
+    <item>
+      <title>Are old apartments cheaper?...Exploring Streeteasy Data</title>
+      <link>http://example.com/post/2020-09-26-are-old-apartments-cheaper-exploring-streeteasy-data/</link>
+      <pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/post/2020-09-26-are-old-apartments-cheaper-exploring-streeteasy-data/</guid>
+      <description>Introduction The cost of housing in New York City has grown at an unprecedented rate over the past several decades. There are probably both supply-side and demand-side causes to these price increases. On the demand side, some have speculated that there is a superstar-city effect: since the information revolution, the demand for high skilled workers has increased, which has increased the demand for real-estate in dense cities where there are tech companies located.</description>
+    </item>
+    
+    <item>
+      <title>Using Alternative data to Assess Borough-level Social-distancing Adherence</title>
+      <link>http://example.com/post/2020-04-18-using-alternative-data-to-assess-borough-level-social-distancing-adherence/</link>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/post/2020-04-18-using-alternative-data-to-assess-borough-level-social-distancing-adherence/</guid>
+      <description>Introduction In the early spring of 2020, public health officials realized that a containment strategy for the novel coronavirus was no longer an option and we had to move to one of suppression. A primary feature of the suppression strategy is social distancing. In social distincing, basically people are told to stay home unless they are going to the grocery store. As of this writing, the social distancing strategy has been a resounding success in lowering the replication rate in New York City.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://example.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/about/</guid>
+      <description>Hugo is a fast and modern static site generator written in Go, and designed to make website creation fun again. Hugo is a general-purpose website framework. Technically speaking, Hugo is a static site generator. Unlike systems that dynamically build a page with each visitor request, Hugo builds pages when you create or update your content. Since websites are viewed far more often than they are edited, Hugo is designed to provide an optimal viewing experience for your website’s end users and an ideal writing experience for website authors.</description>
+    </item>
+    
+  </channel>
+</rss>
