@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>js on Minimal</title>
-    <link>https://tfarley10.github.io/tags/js/</link>
-    <description>Recent content in js on Minimal</description>
+    <title>js on Ted&#39;s Blog</title>
+    <link>/tags/js/</link>
+    <description>Recent content in js on Ted&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://tfarley10.github.io/tags/js/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/tags/js/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project 2</title>
-      <link>https://tfarley10.github.io/project/project2/</link>
+      <link>/project/project2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://tfarley10.github.io/project/project2/</guid>
+      <guid>/project/project2/</guid>
       <description></description>
     </item>
     

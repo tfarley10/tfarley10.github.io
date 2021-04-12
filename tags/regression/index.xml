@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>regression on Ted&#39;s Blog</title>
+    <link>/tags/regression/</link>
+    <description>Recent content in regression on Ted&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/regression/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Are old apartments cheaper?...Building a statistical model!</title>
+      <link>/post/2020-10-03-are-old-apartments-cheaper-building-a-statistical-model/</link>
+      <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-10-03-are-old-apartments-cheaper-building-a-statistical-model/</guid>
+      <description>Introduction In part 1 while exploring the dataset I stated two a priori beliefs about the relationship between building age and rental price. First, especially when taking selection bias, this relationship is unlikely to be linear (or log-linear in this case). Second, I suggested that the relationship was likely to be different in different types of neighborhoods. In this post, I’ll start by specifying a statistical model that addresses the mediating effects of ‘Neighborhood Income level’, non-linearities, and confounding variable bias.</description>
+    </item>
+    
+  </channel>
+</rss>

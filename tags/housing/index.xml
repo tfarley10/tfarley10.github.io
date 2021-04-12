@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>housing on Ted&#39;s Blog</title>
+    <link>/tags/housing/</link>
+    <description>Recent content in housing on Ted&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/housing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Are old apartments cheaper?...Model Comparison</title>
+      <link>/post/2020-10-04-are-old-apartments-cheaper-model-comparison/</link>
+      <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-10-04-are-old-apartments-cheaper-model-comparison/</guid>
+      <description>Intro In the last post, after specifying a statistical model for the the effects of age on rent in the Streeteasy dataset, I fit that model and graphically compared it to a linear model. I pointed out that one advantage of the splines model is that it allowed me to identify in a more granular way how cohort effects could bias my inference. While the overally goal of this analysis is to infer the causal effects of age on rental price a sub-goal of this process is to build a model that describes the underlying data-generating process well.</description>
+    </item>
+    
+    <item>
+      <title>Are old apartments cheaper?...Building a statistical model!</title>
+      <link>/post/2020-10-03-are-old-apartments-cheaper-building-a-statistical-model/</link>
+      <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-10-03-are-old-apartments-cheaper-building-a-statistical-model/</guid>
+      <description>Introduction In part 1 while exploring the dataset I stated two a priori beliefs about the relationship between building age and rental price. First, especially when taking selection bias, this relationship is unlikely to be linear (or log-linear in this case). Second, I suggested that the relationship was likely to be different in different types of neighborhoods. In this post, I’ll start by specifying a statistical model that addresses the mediating effects of ‘Neighborhood Income level’, non-linearities, and confounding variable bias.</description>
+    </item>
+    
+    <item>
+      <title>Are old apartments cheaper?...Building a causal model</title>
+      <link>/post/2020-09-27-are-old-apartments-cheaper-building-a-causal-model/</link>
+      <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-09-27-are-old-apartments-cheaper-building-a-causal-model/</guid>
+      <description>Introduction In the previous post I introduced my quesntion of interest: Is there evidence of filtering effects in the NYC housing market?, performed a breif review of the literature on the topic and did some data exploration. Importantly, in my exploration of the data I use 4 out of the 20 possible features in the dataset. If this were a prediction problem, that would not be wise as I would be throwing information away that could improve the performance of my model.</description>
+    </item>
+    
+    <item>
+      <title>Are old apartments cheaper?...Exploring Streeteasy Data</title>
+      <link>/post/2020-09-26-are-old-apartments-cheaper-exploring-streeteasy-data/</link>
+      <pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-09-26-are-old-apartments-cheaper-exploring-streeteasy-data/</guid>
+      <description>Introduction The cost of housing in New York City has grown at an unprecedented rate over the past several decades. There are probably both supply-side and demand-side causes to these price increases. On the demand side, some have speculated that there is a superstar-city effect: since the information revolution, the demand for high skilled workers has increased, which has increased the demand for real-estate in dense cities where there are tech companies located.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>model comparison on Ted&#39;s Blog</title>
+    <link>/tags/model-comparison/</link>
+    <description>Recent content in model comparison on Ted&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/model-comparison/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Are old apartments cheaper?...Model Comparison</title>
+      <link>/post/2020-10-04-are-old-apartments-cheaper-model-comparison/</link>
+      <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-10-04-are-old-apartments-cheaper-model-comparison/</guid>
+      <description>Intro In the last post, after specifying a statistical model for the the effects of age on rent in the Streeteasy dataset, I fit that model and graphically compared it to a linear model. I pointed out that one advantage of the splines model is that it allowed me to identify in a more granular way how cohort effects could bias my inference. While the overally goal of this analysis is to infer the causal effects of age on rental price a sub-goal of this process is to build a model that describes the underlying data-generating process well.</description>
+    </item>
+    
+  </channel>
+</rss>

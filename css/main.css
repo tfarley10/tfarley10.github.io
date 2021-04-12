@@ -45,9 +45,9 @@ img {
 /* Profile picture */
 
 .profile {
-    width: 10vh;
-    height: 10vh;
-    border-radius: 50%;
+    width: 60vh;
+    height: 60vh;
+    border-radius: 10%;
 }
 
 /* Colored links */

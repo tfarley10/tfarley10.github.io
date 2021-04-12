@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>r on Ted&#39;s Blog</title>
+    <link>/tags/r/</link>
+    <description>Recent content in r on Ted&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using Alternative data to Assess Borough-level Social-distancing Adherence</title>
+      <link>/post/2020-04-18-using-alternative-data-to-assess-borough-level-social-distancing-adherence/</link>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-04-18-using-alternative-data-to-assess-borough-level-social-distancing-adherence/</guid>
+      <description>Introduction In the early spring of 2020, public health officials realized that a containment strategy for the novel coronavirus was no longer an option and we had to move to one of suppression. A primary feature of the suppression strategy is social distancing. In social distincing, basically people are told to stay home unless they are going to the grocery store. As of this writing, the social distancing strategy has been a resounding success in lowering the replication rate in New York City.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -4,7 +4,7 @@ author: ''
 date: '2020-09-27'
 slug: []
 categories: []
-tags: []
+tags: [housing, causal models]
 ---
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, warning = F, message = F)

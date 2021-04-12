@@ -4,7 +4,7 @@ author: ''
 date: '2020-10-04'
 slug: []
 categories: []
-tags: []
+tags: [housing, model comparison, cross-validation]
 bibliography: ["bib/ste4.bib"]
 ---
 
